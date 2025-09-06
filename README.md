@@ -1,11 +1,9 @@
-## Hi there 👋
+## Hi there!
 
 I'm Robin91862, a developer from Poland.
 
 - Interested in Wii homebrew and retro gaming.
-- Fan of the Portal series and its unique mechanics.
-- Learning more about game modding and software development.
-- Open to discussions about Wii homebrew or Portal.
-- Reach me through my GitHub profile.
+- Fan of the Portal series and all other Valve games.
+- Contact me via [e-mail](mailto:hello@robin91862.pl.eu.org)
 
-Looking forward to collaborating.
+My website: <https://robin91862.pl.eu.org>
